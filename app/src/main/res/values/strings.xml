@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">uApp</string>
+    <string name="good_morning">Buenos días</string>
+    <string name="my_name">Diego</string>
+
+    <string name="error">Error app</string>
+    <string name="label_popular">Popular</string>
+    <string name="label_favourite">Favoritos</string>
+</resources>
